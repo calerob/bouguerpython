@@ -1,12 +1,12 @@
 # Anomalía de Bouguer completa – Procesamiento y evaluación
 
-Este repositorio contiene los scripts desarrollados en Python como parte del flujo metodológico para el procesamiento y análisis de anomalías de Bouguer completa en Costa Rica.
+Este repositorio contiene los scripts desarrollados en Python como parte del flujo metodológico utilizado para el procesamiento y análisis de Bouguer completa en Costa Rica.
 
-## 📖 Descripción general
+## Descripción general
 
 El código implementa las etapas de preprocesamiento, cálculo gravimétrico y evaluación cuantitativa del desempeño de métodos de interpolación, en concordancia con la metodología del estudio.
 
-## ⚙️ Flujo de trabajo
+## Flujo de trabajo
 
 El proceso completo se estructura en las siguientes etapas:
 
@@ -39,7 +39,7 @@ El proceso completo se estructura en las siguientes etapas:
      - MAE
      - RMSE
 
-## 📊 Objetivo
+## Objetivo
 
 Evaluar cuantitativamente el desempeño de los métodos de interpolación Kriging y Spline en la estimación del campo gravimétrico, a partir de la comparación entre valores observados y valores restaurados.
 
