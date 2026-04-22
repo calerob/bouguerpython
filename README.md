@@ -50,7 +50,7 @@ Evaluar cuantitativamente el desempeño de los métodos de interpolación Krigin
 - `Script.DTM.WGS84.a.SIRGAS.py` → reproyección del modelo digital de terreno  
 - `Restauracion + Metricas.py` → evaluación cuantitativa (restore + métricas)
 
-## 📌 Notas
+## Notas
 
 - La interpolación espacial no se realiza en Python dentro de este repositorio.
 - Los ráster de entrada (Kriging y Spline) deben ser generados previamente.
